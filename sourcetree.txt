@@ -1,0 +1,6 @@
+-clone
+-commit
+-push
+-diff merge
+-merge conflict
+-menyelesaikan merge conflict di branch baru
