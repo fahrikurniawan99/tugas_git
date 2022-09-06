@@ -1,0 +1,4 @@
+-Git branch
+-Git checkout 
+-Git merge
+-Git merge conflict
